@@ -55,11 +55,11 @@ I enjoy translating challenging concepts into practical and intuitive tech solut
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Hevial&show_icons=true&theme=tokyonight&hide_rank=true&hide_border=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hevial&show_icons=true&theme=tokyonight&hide_border=true" 
     height="160"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hevial&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hevial&layout=compact&theme=tokyonight&hide_border=true" 
     height="160"
   />
 </p>
