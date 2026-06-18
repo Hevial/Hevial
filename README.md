@@ -5,8 +5,6 @@ I'm Samuele, a Computer Science student at the University of Pisa and a passiona
 My interests span from algorithms and data structures, to interactive web applications and system-level programming.  
 I enjoy translating challenging concepts into practical and intuitive tech solutions, always striving to expand my knowledge and skills.
 
-<br/>
-
 ## Main Projects
 
 <table>
@@ -36,20 +34,17 @@ I enjoy translating challenging concepts into practical and intuitive tech solut
   </tr>
 </table>
 
-<br/>
-
 ## Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="36" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="36" />
 </p>
-
-<br/>
 
 ## GitHub Stats
 
@@ -63,8 +58,6 @@ I enjoy translating challenging concepts into practical and intuitive tech solut
     height="160"
   />
 </p>
-
-<br/>
 
 ## Contacts
 
