@@ -11,24 +11,24 @@ I enjoy translating challenging concepts into practical and intuitive tech solut
   <tr>
     <td valign="top" width="25%">
       <h4><a href="https://github.com/Hevial/Emergency-System">Emergency-System</a></h4>
-      <img src="https://img.shields.io/badge/C11-Multithreading-22223b?style=flat&logo=c&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/-A8B9CC?logo=c&logoColor=black" /><br/>
       <span>High-performance C multithreaded simulation for emergency management on a 2D grid.</span>
     </td>
     <td valign="top" width="25%">
       <h4><a href="https://github.com/Hevial/Sorting-Visualizer">Sorting-Visualizer</a></h4>
-      <img src="https://img.shields.io/badge/JavaScript-Sorting%20Visualizer-22223b?style=flat&logo=javascript&logoColor=F7DF1E" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-1E1E1E?logo=react&logoColor=61DAFB" /><br/>
       <a href="https://sorting-visualizer-hevial.netlify.app/">Live Demo</a><br/>
       <span>Visualizes the mechanics of sorting algorithms in real time.</span>
     </td>
     <td valign="top" width="25%">
       <h4><a href="https://github.com/Hevial/Pathfinding-Visualizer">Pathfinding-Visualizer</a></h4>
-      <img src="https://img.shields.io/badge/TypeScript-Pathfinding%20Visualizer-22223b?style=flat&logo=typescript&logoColor=3178C6" /><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-1E1E1E?logo=react&logoColor=61DAFB" /><br/>
       <a href="https://pathfinding-visualizer-hevial.netlify.app/">Live Demo</a><br/>
       <span>Interactive app to discover and compare pathfinding algorithms.</span>
     </td>
     <td valign="top" width="25%">
       <h4><a href="https://github.com/Hevial/Connections">Connections</a></h4>
-      <img src="https://img.shields.io/badge/Java-Client%2FServer%20Game-007396?style=flat&logo=java&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" /><br/>
       <span>Client/server console application in Java that replicates the New York Times <b>Connections</b> game.</span>
     </td>
   </tr>
