@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I'm Samuele, a Computer Science student at the University of Pisa and a passionate software developer driven by Software Engineering principles to build high‑quality solutions to complex problems.
+I'm Samuele, a Computer Science graduate at the University of Pisa and a passionate software developer driven by Software Engineering principles to build high‑quality solutions to complex problems.
 
 My interests span from algorithms and data structures, to interactive web applications and system-level programming.  
 I enjoy translating challenging concepts into practical and intuitive tech solutions, always striving to expand my knowledge and skills.
